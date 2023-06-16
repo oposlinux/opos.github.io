@@ -1,2 +1,2 @@
-# opos.github.io
+# oposlinux.github.io
 web site
